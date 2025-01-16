@@ -1,1 +1,1 @@
-# SCM-Project
+# SCMProject
