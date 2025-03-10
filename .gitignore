@@ -1,4 +1,4 @@
-# Ignore log files
+git# Ignore log files
 *.log
 
 # Ignore Python virtual environment
